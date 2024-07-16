@@ -105,21 +105,21 @@ export default {
     setTimeout(() => {
       this.pages = [
         null,
-        'images/1.jpg',
-        'images/2.jpg',
-        'images/3.jpg',
-        'images/4.jpg',
-        'images/5.jpg',
-        'images/6.jpg',
+        'images/page_1_dpi72.png',
+        'images/page_2_dpi72.png',
+        'images/page_3_dpi72.png',
+        'images/page_4_dpi72.png',
+        'images/page_5.png',
+        'images/page_6.png',
       ]
       this.pagesHiRes = [
         null,
-        'images-large/1.jpg',
-        'images-large/2.jpg',
-        'images-large/3.jpg',
-        'images-large/4.jpg',
-        'images-large/5.jpg',
-        'images-large/6.jpg',
+        'images-large/page_1.png',
+        'images-large/page_2.png',
+        'images-large/page_3.png',
+        'images-large/page_4.png',
+        'images-large/page_5.png',
+        'images-large/page_6.png',
       ]
     }, 1)
 
